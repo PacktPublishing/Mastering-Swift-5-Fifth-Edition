@@ -37,7 +37,7 @@ message = nil)
 **Following is what you need for this book:**
 This book is for developers who want to delve into the newest version of Swift. If you are a developer and learn best by looking at and working with code, then this book is for you. A basic understanding of Apple's tools would be beneficial but not mandatory. All examples should work on the Linux platform as well.
 
-With the following software and hardware list you can run all code files present in the book (Chapter 1-15).
+With the following software and hardware list you can run all code files present in the book (Chapter 1-18).
 
 ### Software and Hardware List
 
