@@ -1,8 +1,8 @@
 import Cocoa
 
 var arrayOne = [1,2,3,4,5,6]
-let first = arrayOne.first    //first contains
-let last = arrayOne.last    //last contains 6
+let first = arrayOne.first    //first contains 1
+let last = arrayOne.last      //last contains 6
 
 let multiArray = [[1,2],[3,4],[5,6]]
 let arrFirst1 = multiArray[0].first     //arrFirst1 contains 1
